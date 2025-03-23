@@ -70,7 +70,7 @@ This repository contains various Python projects designed to help learners under
 ## Project 1: Mad Libs Python Project
 
 ### Code Link
-- [Mad Libs Python Project Code](Assignments%201%20to%206/Project%201_%20Mad%20Libs%20Python%20Project/main.py)
+- [Mad Libs Python Project Code](https://colab.research.google.com/drive/1GUDvOcY-O_zOfRbialvEJU02NChgR6li?usp=sharing)
 
 ## Project 2: Guess the Number Game (Computer)
 
